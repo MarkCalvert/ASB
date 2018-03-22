@@ -268,3 +268,10 @@ form#greenid-so-confirm-details-form {
   box-shadow: none;
   background-image: url('https://markcalvert.github.io/ASB/images/background_414px.jpg');
 }
+
+.greenid-so-modal#greenid-wait-modal .modal-body {
+  font-family: 'HelveticaNeueLTStd-Th';
+  font-size: 29px;
+  color: #fff;
+  padding: 30px;
+}
