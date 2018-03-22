@@ -263,15 +263,17 @@ form#greenid-so-confirm-details-form {
   background-image: none;
 }
 
+/*loading screen background image */
 .greenid-so-modal .modal-content {
-  border: none;
-  box-shadow: none;
   background-image: url('https://markcalvert.github.io/ASB/images/background_414px.jpg');
 }
 
+/*loading screen font colour */
 .greenid-so-modal#greenid-wait-modal .modal-body {
-  font-family: 'HelveticaNeueLTStd-Th';
-  font-size: 29px;
   color: #fff;
-  padding: 30px;
+}
+
+/* Selfie Steps Text colour */
+.greenid-so-content #greenid-container .greenid-so-content-dropcap {
+  color: #fff;
 }
