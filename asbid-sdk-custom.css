@@ -155,7 +155,7 @@ html {
 /*
  * License page
  */
-.greenid-so-content #greenid-container .greenid-so-content-image-container img {
+/*.greenid-so-content #greenid-container .greenid-so-content-image-container img {
   display: block;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -164,7 +164,7 @@ html {
   height: 220px;
   padding-left: 350px;
 
-}
+}*/
 
 /* 
  * -- Confirm ocr page -- 
