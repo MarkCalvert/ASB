@@ -277,3 +277,8 @@ form#greenid-so-confirm-details-form {
 .greenid-so-content #greenid-container .greenid-so-content-dropcap {
   color: #fff;
 }
+
+/* Skip the instructions Text colour */
+#greenid-container .btn-link {
+  color: #FCBD1B;
+}
