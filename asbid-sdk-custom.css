@@ -207,10 +207,6 @@ form#greenid-so-confirm-details-form {
 
 /* Input fields */
 
-.greenid-so-content #greenid-container .form-group {
-  margin-bottom: 0
-}
-
 .greenid-so-content #greenid-container input[type='text'], 
 .greenid-so-content #greenid-container input[type='number'], 
 .greenid-so-content #greenid-container input[type='date'], 
