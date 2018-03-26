@@ -67,7 +67,7 @@ html {
   min-height: 44px;
 }
 
-//* Back button in nav bar */
+/* Back button in nav bar */
 .greenid-so-content #greenid-container .btn-back {
   background-color: transparent;
   background-image: url('https://markcalvert.github.io/ASB/images/yellow-back-arrow.png');
@@ -79,7 +79,7 @@ html {
   margin-top: 10px;
 }
 
-//* Cancel button in nav bar */
+/* Cancel button in nav bar */
 .greenid-so-content #greenid-container .btn-cancel {
   background-image: none;
   background-color: #000000;
