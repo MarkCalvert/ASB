@@ -275,3 +275,9 @@ form#greenid-so-confirm-details-form {
 #greenid-container .btn-link {
   color: #FCBD1B;
 }
+
+/* Button Focus colour */
+.greenid-so-content #greenid-container .input-group-btn button:focus,
+.greenid-so-content #greenid-container .input-group-btn button:hover {
+  color: #FCBD1B;
+}
