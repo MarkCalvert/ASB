@@ -4,9 +4,9 @@
    Author: MK;
 
 	Colors
-   Background 	#000000
-	 text color 	#FFFFFF
-   Yellow       #FCBD1B
+    Background 	#000000
+	Text Color 	#FFFFFF
+    Yellow       #FCBD1B
 
  */
 
@@ -49,7 +49,7 @@ html {
 
 /* Navigation bar at the top */
 .greenid-so-content-nav {
-    /* min-height: 44px; */
+    min-height: 44px;
     /* border-bottom: none; */
     background-color: #000000;
     background-image: url(https://markcalvert.github.io/ASB/images/ASB_logo_yellow.png);
