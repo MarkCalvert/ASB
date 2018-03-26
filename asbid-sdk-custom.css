@@ -301,3 +301,9 @@ form#greenid-so-confirm-details-form {
 .greenid-so-content #greenid-container .input-group-btn button:hover {
   color: #FCBD1B;
 }
+
+/* Clear textbox Button */
+.glyphicon-remove-circle:before {
+  font-weight: 100;
+  content: "\e014";
+}
