@@ -309,6 +309,17 @@ form#greenid-so-confirm-details-form {
   content: "\e014";
 }
 
-greenid-so-content-dropcap:after{
-    content:"";
+
+.greenid-so-content-dropcap{
+    background-image: url(https://markcalvert.github.io/ASB/images/hex-1.svg);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    background-position: 5px 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    left: -50px;
+}
+
+.greenid-so-content-dropcap:after{
+    content:""
 }
