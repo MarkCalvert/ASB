@@ -277,7 +277,7 @@ form#greenid-so-confirm-details-form {
 }
 
 /*loading screen background image */
-.greenid-so-modal .modal-content {
+.greenid-modal {
   background-image: url('https://markcalvert.github.io/ASB/images/background_414px.jpg');
 }
 
