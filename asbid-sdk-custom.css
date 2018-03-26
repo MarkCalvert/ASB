@@ -308,3 +308,7 @@ form#greenid-so-confirm-details-form {
   -webkit-text-stroke: 2px black;
   content: "\e014";
 }
+
+greenid-so-content-dropcap:after{
+    content:"";
+}
