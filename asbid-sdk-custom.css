@@ -251,6 +251,13 @@ form#greenid-so-confirm-details-form {
   text-transform: none;
 }
 
+#greenid-container .btn-primary:hover,
+#greenid-container .btn-primary:focus,
+#greenid-container .btn-primary:active,
+#greenid-container .btn-primary.active {
+  background-color: #FCBD1B;
+}
+
 /* Next button */
 .greenid-so-content #greenid-container .btn-next {
   background-image: none;
