@@ -62,7 +62,7 @@ html {
 .greenid-so-content #greenid-container .greenid-so-content-nav {
 
   background-color: #000000;
-  /*min-height: 44px;*/
+  min-height: 44px;
 }
 
 
