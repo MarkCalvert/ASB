@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="74px" viewBox="0 0 66 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M29.3544543,0.707342603 L2.64686441,16.0684397 C1.01011267,17.0115632 0,18.7522273 0,20.6374193 L0,51.3633059 C0,53.2484979 1.01011267,54.9881071 2.64686441,55.9307031 L29.3533993,71.2928552 C30.1725664,71.7638895 31.0861513,72.0001978 31.9997363,72.0001978 C32.9154311,72.0001978 33.8279611,71.7638895 34.6471282,71.2928552 L61.3536631,55.9307031 C62.9930522,54.9870522 64,53.2469155 64,51.362251 L64,20.6374193 C64,18.7532823 62.9930522,17.0126182 61.3536631,16.0689672 L34.6471282,0.707342603 C33.8274336,0.236308342 32.9138487,0 31.9997363,0 C31.0861513,0 30.1725664,0.236308342 29.3544543,0.707342603 Z" id="path-1"></path>
+    </defs>
+    <g id="Final" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Help-selfie---step1" transform="translate(-67.000000, -759.000000)">
+            <g id="Group-2" transform="translate(68.000000, 760.000000)">
+                <g id="hex">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Clip-2" stroke="#FEB600" stroke-width="2" xlink:href="#path-1"></use>
+                </g>
+                <text id="1" font-family="SanFranciscoDisplay-Semibold, San Francisco Display" font-size="48" font-weight="500" fill="#FFFFFF">
+                    <tspan x="21" y="51">1</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
