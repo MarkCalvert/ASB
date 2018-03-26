@@ -258,6 +258,19 @@ form#greenid-so-confirm-details-form {
   background-color: #FCBD1B;
 }
 
+#greenid-container .btn-primary.disabled,
+#greenid-container .btn-primary[disabled],
+#greenid-container .btn-primary.disabled:hover,
+#greenid-container .btn-primary[disabled]:hover,
+#greenid-container .btn-primary.disabled:focus,
+#greenid-container .btn-primary[disabled]:focus,
+#greenid-container .btn-primary.disabled:active,
+#greenid-container .btn-primary[disabled]:active,
+#greenid-container .btn-primary.disabled.active,
+#greenid-container .btn-primary[disabled].active {
+  background-color: #FCBD1B;
+}
+
 /* Next button */
 .greenid-so-content #greenid-container .btn-next {
   background-image: none;
