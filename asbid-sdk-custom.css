@@ -47,50 +47,40 @@ html {
 }
 
 
-/* Back button in nav bar */
-/*.greenid-so-content #greenid-container .btn-back {
-  background-color: transparent;
-  background-image: url('https://markcalvert.github.io/ASB/images/yellow-back-arrow.png');
-  background-position: left top;
-  background-repeat: no-repeat;
-  background-size: 18px 25px;
-  color: #FCBD1B;
-  margin-left: 6px;
-  margin-top: 10px;
-}*/
-
-
 /* Navigation bar at the top */
 .greenid-so-content-nav {
-
-  min-height: 44px;
-  border-bottom: none;
-  background-color: #000000;
-  background-image: url('https://markcalvert.github.io/ASB/images/ASB_logo_yellow.png');
-  background-repeat: no-repeat;
-  background-position: center;
-  margin: 0 -32px;
+    /* min-height: 44px; */
+    /* border-bottom: none; */
+    background-color: #000000;
+    background-image: url(https://markcalvert.github.io/ASB/images/ASB_logo_yellow.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    /* margin: 0 -32px; */
 }
 
 /* Navigation bar */
 .greenid-so-content #greenid-container .greenid-so-content-nav {
 
   background-color: #000000;
-  min-height: 44px;
+  /*min-height: 44px;*/
 }
 
 
-/*.greenid-so-content #greenid-container .btn-cancel {
-  background-image: none;
-  background-color: #000000;
+ /*Back button in nav bar*/ 
+.greenid-so-content #greenid-container .btn-back {
+  background-color: transparent;
+  background-image: url('https://markcalvert.github.io/ASB/images/yellow-back-arrow.png');
+  background-position: left top;
   color: #FCBD1B;
-  position: absolute;
-  top: 0;
-  right: 0;
-  margin-right: 15px;
-  margin-top: 10px;
-  fon*/t-size: 16px;
 }
+
+ /*Cancel button in nav bar*/ 
+.greenid-so-content #greenid-container .btn-cancel {
+    background-image: none;
+    background-color: #000000;
+    color: #FCBD1B;   
+}
+
 
 /* 
  * General Pages Headings
