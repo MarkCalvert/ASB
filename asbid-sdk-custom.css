@@ -46,7 +46,8 @@ html {
 .greenid-so-content #greenid-container h4,
 .greenid-so-content #greenid-container label,
 .greenid-so-content #greenid-container .greenid-so-content-agree-label,
-.greenid-so-content #greenid-container .btn {
+.greenid-so-content #greenid-container .btn,
+.greenid-so-modal#greenid-wait-modal .modal-body {
 	font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Calibri Light", Calibri, Helvetica, Arial, sans-serif;
 }
 
@@ -270,11 +271,18 @@ form#greenid-so-confirm-details-form {
 .greenid-modal {
 	background-image: url('https://markcalvert.github.io/ASB/images/background_414px.jpg');
 }
+.greenid-so-modal .modal-content {
+	background-color:transparent;
+}
+.greenid-so-modal .greenid-loader-container {
+  background-image: url('https://markcalvert.github.io/ASB/images/ring-on-blk.gif');
 
+}
 /*loading screen font colour */
 .greenid-so-modal#greenid-wait-modal .modal-body {
-	color: #fff;
+	color: #FFF;
 }
+
 
 /* Selfie Steps Text colour */
 .greenid-so-content #greenid-container .greenid-so-content-dropcap {
@@ -379,4 +387,14 @@ form#greenid-so-confirm-details-form {
 
 #greenid-so-agree-item-1 {
 	outline: 1px solid #FCBD1B;
+}
+
+.greenid-so-content-image-front {
+  display: block;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  background: url('https://markcalvert.github.io/ASB/images/instructions_license_310.png') no-repeat center;
+  width: 311px;
+  height: 220px;
+  padding-left: 311px;
 }
