@@ -23,7 +23,7 @@ html {
 /* Each page outer container */
 .greenid-so-content {
 	background-color: #000000;
-	background-image: url('https://markcalvert.github.io/ASB/images/background_414px.jpg');
+	background-image: url('https://aem-authoring-qa.asbbank.co.nz/content/dam/asb/mobile/assets/images/background_414px.jpg');
 	background-repeat: no-repeat;
 	height: 100%;
 	/* default */
@@ -63,7 +63,7 @@ html {
 	min-height: 44px;
 	border-bottom: none;
 	background-color: #000000;
-	background-image: url('https://markcalvert.github.io/ASB/images/ASB_logo_yellow.png');
+	background-image: url('https://aem-authoring-qa.asbbank.co.nz/content/dam/asb/mobile/assets/images/ASB_logo_yellow.png');
 	background-repeat: no-repeat;
 	background-position: center;
 	margin: 0 -32px;
@@ -78,7 +78,7 @@ html {
 /* Back button in nav bar */
 .greenid-so-content #greenid-container .btn-back {
 	background-color: transparent;
-	background-image: url('https://markcalvert.github.io/ASB/images/yellow-back-arrow.png');
+	background-image: url('https://aem-authoring-qa.asbbank.co.nz/content/dam/asb/mobile/assets/images/yellow-back-arrow.png');
 	background-position: left top;
 	background-repeat: no-repeat;
 	background-size: 18px 25px;
@@ -269,13 +269,13 @@ form#greenid-so-confirm-details-form {
 
 /*loading screen background image */
 .greenid-modal {
-	background-image: url('https://markcalvert.github.io/ASB/images/background_414px.jpg');
+	background-image: url('https://aem-authoring-qa.asbbank.co.nz/content/dam/asb/mobile/assets/images/background_414px.jpg');
 }
 .greenid-so-modal .modal-content {
 	background-color:transparent;
 }
 .greenid-so-modal .greenid-loader-container {
-  background-image: url('https://markcalvert.github.io/ASB/images/ring-on-blk.gif');
+  background-image: url('https://aem-authoring-qa.asbbank.co.nz/content/dam/asb/mobile/assets/images/ring-on-blk.gif');
 
 }
 /*loading screen font colour */
@@ -287,7 +287,7 @@ form#greenid-so-confirm-details-form {
 /* Selfie Steps Text colour */
 .greenid-so-content #greenid-container .greenid-so-content-dropcap {
 	color: #fff;
-	background-image: url(https://markcalvert.github.io/ASB/images/hex-1.svg);
+	background-image: url('https://aem-authoring-qa.asbbank.co.nz/content/dam/asb/mobile/assets/images/hex-1.svg');
 	background-repeat: no-repeat;
 	background-size: 50px;
 	background-position: 2px 8px;
@@ -393,7 +393,7 @@ form#greenid-so-confirm-details-form {
   display: block;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  background: url('https://markcalvert.github.io/ASB/images/instructions_license_310.png') no-repeat center;
+  background: url('https://aem-authoring-qa.asbbank.co.nz/content/dam/asb/mobile/assets/images/Photo-License.png') no-repeat center;
   width: 311px;
   height: 220px;
   padding-left: 311px;
